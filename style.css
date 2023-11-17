@@ -15,3 +15,11 @@ body {
     padding: 20px;
     width: 80vw;
   }
+
+  #secretWord {
+    font-size: 50px;
+  }
+
+  #secretWordText {
+    font-size: 50px;
+  }
